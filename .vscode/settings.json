@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "../HCC/HCC_container.h": "c"
+    },
+    "makefile.makefilePath": "/src/Makefile"
+}
